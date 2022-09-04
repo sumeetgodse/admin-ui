@@ -1,0 +1,59 @@
+table{
+    text-align: left;
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.row{
+    border-top: 0.5px solid grey;
+}
+
+.pagination-numbers{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(177, 205, 0);
+    color: white;
+    border: 1px solid rgb(215, 255, 14);
+}
+
+.search-input{
+    width: 95%;
+    padding: 20px;
+    margin-left: 1%;
+}
+
+td,th{
+    padding: 20px;
+}
+
+.edit-btn {
+    color: white;
+    background-color: rgb(131, 218, 0);
+    border: none;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.del-btn {
+    color: white;
+    background-color: rgb(255, 11, 11);
+    border: none;
+    padding: 10px;
+    margin-right: 10px;
+}
+
+.del-sel {
+    color: white;
+    background-color: rgb(255, 11, 11);
+    border: none;
+    padding: 10px;
+    text-align: center;
+}
+
+.pagination-items{
+    text-align: center;
+    color: white;
+    background-color: rgb(99, 198, 0);
+    border: 1px solid rgb(215, 255, 14);
+}
